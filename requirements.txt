@@ -1,0 +1,4 @@
+statistics
+matplotlib
+seaborn
+ipython[all]
